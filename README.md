@@ -1,9 +1,16 @@
 # SpaceMor
-V1.0
+V1.1
 -------------------
+Added play screen and game over screen
+Fixed some UI
+
+**YOU MAY GET A FALSE POSITIVE WHEN RUNNING THE .EXE FILE**
+
 CONTROLS:
 A TO GO LEFT
 D TO GO RIGHT
 SPACE TO SHOOT
 
 YOU HAVE 3 LIVES, IF YOU LOOSE THEM IT WILL SHOW UP AS "GAME OVER" JUST RESTART THE GAME
+
+Read README when installed
