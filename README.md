@@ -14,3 +14,6 @@ SPACE TO SHOOT
 YOU HAVE 3 LIVES, IF YOU LOOSE THEM IT WILL SHOW UP AS "GAME OVER" JUST RESTART THE GAME
 
 Read README when installed
+
+RELEASE:
+https://github.com/kotompoukis/SpaceMor/releases/tag/V1.1
