@@ -1,2 +1,2 @@
 # SpaceMor
-first game
+V1.0
