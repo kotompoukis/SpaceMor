@@ -1,6 +1,8 @@
 # SpaceMor
 V1.2
 -------------------
+!!YOU MAY GET A FALSE POSITIVE WHEN INSTALLING!!
+
 CONTROLS:
 A TO GO LEFT
 D TO GO RIGHT
