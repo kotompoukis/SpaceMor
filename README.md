@@ -1,5 +1,5 @@
 # SpaceMor
-Currently on V1.3
+Currently on V1.2
 -------------------
 CONTROLS:
 A TO GO LEFT
